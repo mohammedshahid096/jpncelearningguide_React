@@ -22,25 +22,25 @@ function Navbar() {
       <NavLink to="/java" className="nav-link">Java</NavLink>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="/">Html/Css</a>
+        <a className="nav-link" href="/*">Html/Css</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link " href="/">JavaScript</a>
+        <a className="nav-link " href="/*">JavaScript</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link " href="/">Php</a>
+        <a className="nav-link " href="/*">Php</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link " href="/">Reactjs</a>
+        <a className="nav-link " href="/*">Reactjs</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link " href="/">MySql</a>
+        <a className="nav-link " href="/*">MySql</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link " href="/">Python</a>
+        <a className="nav-link " href="/*">Python</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link " href="/">Bootstrap</a>
+        <a className="nav-link " href="/*">Bootstrap</a>
       </li>
     </ul  >
   </div>
