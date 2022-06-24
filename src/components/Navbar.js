@@ -12,35 +12,45 @@ function Navbar() {
   </button>
   <div className="collapse navbar-collapse" id="navbarNav">
     <ul className="navbar-nav">
+
       <li className="nav-item active">
         <NavLink to="/clang" className="nav-link">C Lang</NavLink>
       </li>
+
       <li className="nav-item">
         <NavLink to="/cplusplus" className="nav-link">C++</NavLink>
       </li>
       <li className="nav-item"> 
       <NavLink to="/java" className="nav-link">Java</NavLink>
       </li>
+
       <li className="nav-item">
-        <a className="nav-link" href="/*">Html/Css</a>
+        <NavLink to="/htmlcss" className="nav-link">Html/Css</NavLink>
+      </li>
+
+      <li className="nav-item">
+        <NavLink to="/javascript" className="nav-link">JavaScript</NavLink>
+      </li>
+
+      <li className="nav-item">
+        <NavLink to="/php" className="nav-link">Php</NavLink>
+      </li>
+
+      <li className="nav-item">
+        <NavLink to="/reactjs" className="nav-link">React JS</NavLink>
+      </li>
+
+      <li className="nav-item">
+        <NavLink to="/mysql" className="nav-link">MySql</NavLink>
+
       </li>
       <li className="nav-item">
-        <a className="nav-link " href="/*">JavaScript</a>
+        <NavLink to="/python" className="nav-link">Python</NavLink>
+
       </li>
       <li className="nav-item">
-        <a className="nav-link " href="/*">Php</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link " href="/*">Reactjs</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link " href="/*">MySql</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link " href="/*">Python</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link " href="/*">Bootstrap</a>
+        <NavLink to="/bootsrap" className="nav-link">Bootstrap</NavLink>
+
       </li>
     </ul  >
   </div>
