@@ -1,25 +1,28 @@
-import React from 'react';
-import Navbar from './Navbar';
-import bgimg from '../images/C++.png';
+import React from "react";
+import Navbar from "./Navbar";
+import bgimg from "../images/phpelephant.png";
 
-function Cplusplus() {
-  const mystyle ={
-    backgroundImage: `url(${bgimg})`,
-    backgroundRepeat: "no-repeat",
-    backgroundPosition:"50% 90%",
-    backgroundSize: "25rem",
-    backgroundAttachment:"fixed"
-  };
-  const style2 ={
-    color: "#1e8ee4d3"
-  }
+let mystyle = {
+  backgroundImage: `url(${bgimg})`,
+  backgroundRepeat: "no-repeat",
+  backgroundPosition: "50% 100%",
+  backgroundSize: "30rem",
+  backgroundAttachment: "fixed",
+};
+
+const style2 = {
+  color: "#505e9b",
+  textShadow: '3px 4px 2px black',
+  fontSize:"6rem"
+};
+function Php() {
   return (
     <>
-         <Navbar />
+      <Navbar />
       <div className="mt-2" style={mystyle} id="changeComponent">
         <center>
           <h1 className="mt-3" style={style2}>
-            C++
+            Php
           </h1>
         </center>
 
@@ -29,7 +32,7 @@ function Cplusplus() {
           <div className="col-md-6 offset-md-3">
             <div className="row" id="editorBlock">
               <center>
-                <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
+                <h2>Edi <i class="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
               <h4>1. Complete Neso Academy C Language Video Series :</h4>
@@ -218,9 +221,8 @@ function Cplusplus() {
 
         </div>
       </div>
-
     </>
-  )
+  );
 }
 
-export default Cplusplus
+export default Php;

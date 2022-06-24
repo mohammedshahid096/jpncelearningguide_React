@@ -1,9 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
-import bgimg from "./clang.png";
+import bgimg from "../images/clang.png";
 
-// const match = window.matchMedia('(max-width: 480px)');
-// const match = window.innerWidth;
 let mystyle = {
   backgroundImage: `url(${bgimg})`,
   backgroundRepeat: "no-repeat",
@@ -32,7 +30,7 @@ function Clanguage() {
           <div className="col-md-6 offset-md-3">
             <div className="row" id="editorBlock">
               <center>
-                <h2>Editor</h2>
+                <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
               <h4>1. Complete Neso Academy C Language Video Series :</h4>

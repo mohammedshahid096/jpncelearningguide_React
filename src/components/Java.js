@@ -1,11 +1,10 @@
 import React from 'react';
 import Navbar from './Navbar';
-import bgimg from './java.png';
+import bgimg from '../images/java.png';
 
 
 const mystyle ={
     backgroundImage: `url(${bgimg})`,
-    // backgroundImage: "url('https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png')',
     backgroundRepeat: "no-repeat",
     backgroundPosition:"50% 73%",
     backgroundSize: "29rem",

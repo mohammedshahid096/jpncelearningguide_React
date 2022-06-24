@@ -1,17 +1,17 @@
 import React from 'react';
 import Navbar from './Navbar';
-import bgimg from '../images/C++.png';
+import bgimg from '../images/mysql.png';
 
-function Cplusplus() {
+function Mysql() {
   const mystyle ={
     backgroundImage: `url(${bgimg})`,
     backgroundRepeat: "no-repeat",
     backgroundPosition:"50% 90%",
-    backgroundSize: "25rem",
+    backgroundSize: "35rem",
     backgroundAttachment:"fixed"
   };
   const style2 ={
-    color: "#1e8ee4d3"
+    color: "#005478"
   }
   return (
     <>
@@ -19,7 +19,7 @@ function Cplusplus() {
       <div className="mt-2" style={mystyle} id="changeComponent">
         <center>
           <h1 className="mt-3" style={style2}>
-            C++
+            MySql
           </h1>
         </center>
 
@@ -223,4 +223,4 @@ function Cplusplus() {
   )
 }
 
-export default Cplusplus
+export default Mysql

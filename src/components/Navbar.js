@@ -49,7 +49,7 @@ function Navbar() {
 
       </li>
       <li className="nav-item">
-        <NavLink to="/bootsrap" className="nav-link">Bootstrap</NavLink>
+        <NavLink to="/bootstrap" className="nav-link">Bootstrap</NavLink>
 
       </li>
     </ul  >

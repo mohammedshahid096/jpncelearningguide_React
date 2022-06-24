@@ -1,25 +1,28 @@
 import React from 'react';
 import Navbar from './Navbar';
-import bgimg from '../images/C++.png';
+import bgimg from "../images/htmlcss.png";
 
-function Cplusplus() {
-  const mystyle ={
-    backgroundImage: `url(${bgimg})`,
-    backgroundRepeat: "no-repeat",
-    backgroundPosition:"50% 90%",
-    backgroundSize: "25rem",
-    backgroundAttachment:"fixed"
-  };
-  const style2 ={
-    color: "#1e8ee4d3"
-  }
+let mystyle = {
+  backgroundImage: `url(${bgimg})`,
+  backgroundRepeat: "no-repeat",
+  backgroundPosition: "50% 85%",
+  backgroundSize: "35rem",
+  backgroundAttachment: "fixed",
+};
+
+const style2 = {
+  color: "#2254c9",
+  textShadow: '3px 4px 3px #e44d26'
+};
+function Htmlcss() {
   return (
-    <>
-         <Navbar />
+    <div>
+        <>
+        <Navbar />
       <div className="mt-2" style={mystyle} id="changeComponent">
         <center>
           <h1 className="mt-3" style={style2}>
-            C++
+            Html &amp; Css
           </h1>
         </center>
 
@@ -219,8 +222,9 @@ function Cplusplus() {
         </div>
       </div>
 
-    </>
+        </>
+    </div>
   )
 }
 
-export default Cplusplus
+export default Htmlcss

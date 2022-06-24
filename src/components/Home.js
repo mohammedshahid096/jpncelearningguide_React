@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Navbar';
-import bgimg from './background.png';
+import bgimg from '../images/background.png';
 
 let mystyle = {
   backgroundImage: `url(${bgimg})`,
