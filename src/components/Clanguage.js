@@ -33,14 +33,23 @@ function Clanguage() {
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>1.code blocks download link :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://www.codeblocks.org/downloads/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to visit the download page
+                </button>
+              </a>
+              <a
+                href="https://youtu.be/TmT8zXy7zU8"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to visit the youtube page to setup environment variables
                 </button>
               </a>
             </div>

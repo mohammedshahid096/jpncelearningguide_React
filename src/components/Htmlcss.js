@@ -35,7 +35,7 @@ function Htmlcss() {
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>1. Complete Neso Academy HTML and CSS Video Series :</h4>
               <a
                 href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
                 target="_blank"

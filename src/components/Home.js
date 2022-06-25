@@ -16,7 +16,7 @@ function Home() {
     <div>
         <Navbar/>
         <div style={mystyle}>
-        <center><h1>page is on workinggg</h1></center>
+        <center><h1>Page is on Temporary updates</h1></center>
 
         </div>
     </div>
