@@ -28,27 +28,20 @@ function Java() {
       {/* ---------------------------------------------------------- */}
         <div className="col-md-6" >
           <div className="row p-2" id='youtubeblock'>
-          <center><h2> You<i className="fab fa-youtube"></i>Tube:</h2></center>
+          <center><h2> YouTube:<i className="fab fa-youtube"></i></h2></center>
           <hr />
-          <h4>1. Complete Neso Academy C Language Video Series :</h4>
-          <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR" target="_blank" 
+          <h4>1. Complete Neso Academy java Language Video Series :</h4>
+          <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5" target="_blank" 
           rel="noopener noreferrer">
           <button type="button" className="btn btn-info m-2">Click here to watch the playlist (English)</button>
           </a>   
-
           <center><h3>or</h3></center>
-          <h4>2. Complete Jenny's Lectures C Language Video Series : </h4>
-          <a href="https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S" target="_blank" 
+          <h4>3. Basic  java Language concepts from Telusko : </h4>
+          <a href="https://youtu.be/8cm1x4bC610" target="_blank" 
           rel="noopener noreferrer">
           <button type="button" className="btn btn-info m-2">Click here to watch the playlist</button>
           </a>
 
-          <center><h3>or</h3></center>
-          <h4>3. Basic  C Language concepts from Telusko : </h4>
-          <a href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C" target="_blank" 
-          rel="noopener noreferrer">
-          <button type="button" className="btn btn-info m-2">Click here to watch the playlist</button>
-          </a>
           </div>
         </div>
 
@@ -56,26 +49,33 @@ function Java() {
         <div className="col-md-5  offset-md-1 " >
           <div className="row p-2" id='websiteblock'>
           <center> <h2>Web<i className="fas fa-laptop-code"></i>sites:</h2></center>
-          <hr />
-          <h4>1. Learn C Programming :</h4>
-          <a href="https://www.programiz.com/c-programming" target="_blank" 
+          <hr></hr>
+          <h4>1.Java Tpoint :</h4>
+          <a href="https://www.programiz.com/java-programming" target="_blank" 
           rel="noopener noreferrer">
           <button type="button" className="btn btn-info m-2">Click here to open Website</button>
           </a>
 
           <h4>2. W3 Schools :</h4>
-          <a href="https://www.w3schools.com/c/index.php" target="_blank" 
+          <a href="https://www.w3schools.com/java/" target="_blank" 
           rel="noopener noreferrer">
           <button type="button" className="btn btn-info m-2">Click here to open Website</button>
           </a>
 
+          <h4>3. Learn java Programming :</h4>
+          <a href="https://www.javatpoint.com/java-tutorial" target="_blank" 
+          rel="noopener noreferrer">
+          <button type="button" className="btn btn-info m-2">Click here to open Website</button>
+          </a>
+
+
           <hr />
           <center> <h2>Comp<i className="fas fa-file-code"></i>iler:</h2></center>
           <hr />
-          <h4> &nbsp; C online Compiler</h4>
-          <a href="https://www.programiz.com/c-programming/online-compiler/" target="_blank" 
+          <h4> &nbsp; java online Compiler</h4>
+          <a href="https://www.programiz.com/java-programming/online-compiler/" target="_blank" 
           rel="noopener noreferrer">
-          <button type="button" className="btn btn-info m-2">Click here to open online C compiler</button>
+          <button type="button" className="btn btn-info m-2">Click here to open online java compiler</button>
           </a>
 
           </div>

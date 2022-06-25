@@ -114,7 +114,7 @@ function Clanguage() {
             <div className="row p-2" id="websiteblock">
               <center>
                 <h2>
-                  Web<i className="fas fa-laptop-code"></i>sites:
+                  Websites:<i className="fas fa-laptop-code"></i>
                 </h2>
               </center>
               <hr />
@@ -151,7 +151,7 @@ function Clanguage() {
               <hr />
               <center>
                 <h2>
-                  Comp<i className="fas fa-file-code"></i>iler:
+                  Compiler:<i className="fas fa-file-code"></i>
                 </h2>
               </center>
               <hr />
@@ -174,7 +174,7 @@ function Clanguage() {
             <div className="row" id="practiceQuestionBlock">
               <center>
                 <h2>
-                  Questions<i className="fas fa-question-circle"></i>practice:
+                  Practice Questions:<i className="fas fa-question-circle"></i>
                 </h2>
               </center>
               <hr />

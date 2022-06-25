@@ -32,7 +32,7 @@ function Cplusplus() {
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>c++ compiler download</h4>
+              
               <h4>1.code blocks download link :</h4>
               <a
                 href="https://www.codeblocks.org/downloads/"
@@ -82,30 +82,17 @@ function Cplusplus() {
               <center>
                 <h3>or</h3>
               </center>
-              <h4>2. Complete Jenny's Lectures C Language Video Series : </h4>
+              <h4>2. Complete cpp basics  : </h4>
               <a
-                href="https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S"
+                href="https://youtu.be/vLnPwxZdW4Y"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
+                  Click here to watch the video
                 </button>
               </a>
 
-              <center>
-                <h3>or</h3>
-              </center>
-              <h4>3. Basic C Language concepts from Telusko : </h4>
-              <a
-                href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
-                </button>
-              </a>
             </div>
           </div>
 
@@ -114,13 +101,13 @@ function Cplusplus() {
             <div className="row p-2" id="websiteblock">
               <center>
                 <h2>
-                  Web<i className="fas fa-laptop-code"></i>sites:
+                  Websites<i className="fas fa-laptop-code"></i>  :
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
+              <h4>1. Learn Cpp Programming :</h4>
               <a
-                href="https://www.programiz.com/c-programming"
+                href="https://www.programiz.com/cpp-programming"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -140,29 +127,20 @@ function Cplusplus() {
                 </button>
               </a>
 
-              <h4>
-                3. CISCO Netcat Academy :
-                <small style={{ fontWeight: "400" }}>
-                  Request to
-                  <mark className="bg-warning">HOD of C.S.E Dept</mark> to make
-                  enroll in this course
-                </small>
-              </h4>
-              <hr />
               <center>
                 <h2>
-                  Comp<i className="fas fa-file-code"></i>iler:
+                Compiler <i className="fas fa-file-code"></i>  :
                 </h2>
               </center>
               <hr />
-              <h4> &nbsp; C online Compiler</h4>
+              <h4> &nbsp; Cpp online Compiler</h4>
               <a
                 href="https://www.programiz.com/c-programming/online-compiler/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to open online C compiler
+                  Click here to open online Cpp compiler
                 </button>
               </a>
             </div>
@@ -174,13 +152,13 @@ function Cplusplus() {
             <div className="row" id="practiceQuestionBlock">
               <center>
                 <h2>
-                  Questions<i className="fas fa-question-circle"></i>practice:
+                Practice Questions<i className="fas fa-question-circle"></i>
                 </h2>
               </center>
               <hr />
-              <h4>1. 200+ C Questions to practice: </h4>
+              <h4>1. 85+ Cpp Questions to practice: </h4>
               <a
-                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
+                href="https://www.w3resource.com/cpp-exercises/basic/index.php"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -200,9 +178,9 @@ function Cplusplus() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
+              <h4>1. Learn Cpp Programming :</h4>
               <a
-                href="https://www.programiz.com/c-programming"
+                href="https://www.programiz.com/cpp-programming"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -213,7 +191,7 @@ function Cplusplus() {
 
               <h4>2. W3 Schools :</h4>
               <a
-                href="https://www.w3schools.com/c/index.php"
+                href="https://www.w3schools.com/cpp/default.asp"
                 target="_blank"
                 rel="noopener noreferrer"
               >

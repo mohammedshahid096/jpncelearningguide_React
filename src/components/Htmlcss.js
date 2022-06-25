@@ -35,14 +35,23 @@ function Htmlcss() {
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy HTML and CSS Video Series :</h4>
+              <h4>1. Complete Series for VSCode download and setup :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://youtu.be/fWzp5lZ5CEA"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
                   Click here to watch the playlist (English)
+                </button>
+              </a>
+              <a
+                href="https://youtu.be/fWzp5lZ5CEA"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to watch the  (English)
                 </button>
               </a>
             </div>
@@ -61,23 +70,23 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>1. Complete html and css playlist:</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to watch the video (HINDI)
                 </button>
               </a>
 
               <center>
                 <h3>or</h3>
               </center>
-              <h4>2. Complete Jenny's Lectures C Language Video Series : </h4>
+              <h4>2. Complete Lecture html and css Video  : </h4>
               <a
-                href="https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S"
+                href="https://youtu.be/G3e-cpL7ofc"
                 target="_blank"
                 rel="noopener noreferrer"
               >
