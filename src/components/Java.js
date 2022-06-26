@@ -70,7 +70,7 @@ function Java() {
 
 
           <hr />
-          <center> <h2>Comp<i className="fas fa-file-code"></i>iler:</h2></center>
+          <center> <h2>Compiler:<i className="fas fa-file-code"></i></h2></center>
           <hr />
           <h4> &nbsp; java online Compiler</h4>
           <a href="https://www.programiz.com/java-programming/online-compiler/" target="_blank" 
