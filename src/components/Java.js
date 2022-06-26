@@ -20,6 +20,33 @@ function Java() {
     <Navbar/>
    <div className='mt-2' style={mystyle}  id="changeComponent">
     <center><h1 className='mt-3' style={style2}>JAVA</h1></center>
+  <div>
+    <div className="row" id="editorBlock">
+              <center>
+                <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
+              </center>
+              <hr />
+              <h4>DOWNLOAD JAVE AND SET ENVIRONMENT VARIABLES</h4>
+              <a
+                href="https://www.oracle.com/java/technologies/downloads/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to visit the download page
+                </button>
+              </a>
+              <a
+                href="https://youtu.be/zAyIqbBAUxQ"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to visit the youtube page to setup environment variables
+                </button>
+              </a>
+            </div>
+          </div>
     <center>
     {/* <div className="row w-50" id='youtubeblock'>heheh</div> */}
 
