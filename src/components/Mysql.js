@@ -157,7 +157,7 @@ function Mysql() {
               </a>
             </div>
           </div>
-
+{/* -----------------question practice block--------------------------------------------- */}
           <div className="1-100"></div>
 
           <div className="col-md-6 mt-3">

@@ -160,6 +160,64 @@ function Java() {
             </a>
           </div>
         </div>
+ {/* -----------------question practice block--------------------------------------------- */}
+ <div className="1-100"></div>
+
+<div className="col-md-6 mt-3">
+  <div className="row" id="practiceQuestionBlock">
+    <center>
+      <h2>
+        Questions<i className="fas fa-question-circle"></i>practice:
+      </h2>
+    </center>
+    <hr />
+    <h4>1. 200+ C Questions to practice: </h4>
+    <a
+      href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <button type="button" className="btn btn-info m-2">
+        Click here to start practining
+      </button>
+    </a>
+  </div>
+</div>
+
+{/* -----------------interview block------------------------------- */}
+<div className="col-md-5  offset-md-1 ">
+  <div className="row p-2 mt-3" id="websiteblock">
+    <center>
+      <h2>
+        interview<i className="fas fa-star"></i>Questions:
+      </h2>
+    </center>
+    <hr />
+    <h4>1. Learn C Programming :</h4>
+    <a
+      href="https://www.programiz.com/c-programming"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <button type="button" className="btn btn-info m-2">
+        Click here to open Website
+      </button>
+    </a>
+
+    <h4>2. W3 Schools :</h4>
+    <a
+      href="https://www.w3schools.com/c/index.php"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <button type="button" className="btn btn-info m-2">
+        Click here to open Website
+      </button>
+    </a>
+  </div>
+</div>
+
+      
       </div>
  
       </div>
