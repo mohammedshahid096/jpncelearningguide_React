@@ -35,14 +35,14 @@ function Htmlcss() {
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>1. Complete Series for VSCode download and setup :</h4>
+              <h4>VSCode download and setup  :</h4>
               <a
-                href="https://youtu.be/fWzp5lZ5CEA"
+                href="https://code.visualstudio.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to download the vs code
                 </button>
               </a>
               <a
@@ -51,7 +51,7 @@ function Htmlcss() {
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the  (English)
+                  Click here to watch the video (English)
                 </button>
               </a>
             </div>
@@ -70,7 +70,7 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Complete html and css playlist:</h4>
+              <h4>1. Complete playlist from Code with:</h4>
               <a
                 href="https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
                 target="_blank"
@@ -91,21 +91,35 @@ function Htmlcss() {
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
+                  Click here to watch the video (6 hours)
                 </button>
               </a>
 
               <center>
                 <h3>or</h3>
               </center>
-              <h4>3. Basic C Language concepts from Telusko : </h4>
+              <h4>3. HTML playlist from Yahoo Baba : </h4>
               <a
-                href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"
+                href="https://youtube.com/playlist?list=PL0b6OzIxLPbxStBQ21C2toa5uQMqHEoRT"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
+                  Click here to watch the playlist of only HTML(hindi)
+                </button>
+              </a>
+
+              <center>
+                <h3>or</h3>
+              </center>
+              <h4>4. CSS playlist from Yahoo Baba : </h4>
+              <a
+                href="https://youtube.com/playlist?list=PL0b6OzIxLPbzDsI5YXUa01QzxOWyqmrWw"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to watch the playlist of only CSS(hindi)
                 </button>
               </a>
             </div>
@@ -120,9 +134,9 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
+              <h4>1. HTML from w3schools :</h4>
               <a
-                href="https://www.programiz.com/c-programming"
+                href="https://www.w3schools.com/html/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -131,9 +145,9 @@ function Htmlcss() {
                 </button>
               </a>
 
-              <h4>2. W3 Schools :</h4>
+              <h4>2.CSS from W3 Schools :</h4>
               <a
-                href="https://www.w3schools.com/c/index.php"
+                href="https://www.w3schools.com/css/css_intro.asp"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -141,15 +155,7 @@ function Htmlcss() {
                   Click here to open Website
                 </button>
               </a>
-
-              <h4>
-                3. CISCO Netcat Academy :
-                <small style={{ fontWeight: "400" }}>
-                  Request to
-                  <mark className="bg-warning">HOD of C.S.E Dept</mark> to make
-                  enroll in this course
-                </small>
-              </h4>
+              
               <hr />
               <center>
                 <h2>
@@ -157,14 +163,24 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
-              <h4> &nbsp; C online Compiler</h4>
+              <h4>1.Pen Code</h4>
               <a
-                href="https://www.programiz.com/c-programming/online-compiler/"
+                href="https://codepen.io/pen/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to open online C compiler
+                  Click here to open Pen Code
+                </button>
+              </a>
+              <h4>2.JDoole for html/css/js</h4>
+              <a
+                href="https://www.jdoodle.com/html-css-javascript-online-editor/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to open jDoodle
                 </button>
               </a>
             </div>
@@ -180,16 +196,12 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
-              <h4>1. 200+ C Questions to practice: </h4>
-              <a
-                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to start practining
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 
@@ -202,27 +214,12 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
-              <a
-                href="https://www.programiz.com/c-programming"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-
-              <h4>2. W3 Schools :</h4>
-              <a
-                href="https://www.w3schools.com/c/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 

@@ -200,28 +200,13 @@ function Clanguage() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
-              <a
-                href="https://www.programiz.com/c-programming"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-
-              <h4>2. W3 Schools :</h4>
-              <a
-                href="https://www.w3schools.com/c/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-            </div>
+              <center>
+                <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
+             </div>
           </div>
 
 
