@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from './Navbar';
 import bgimg from '../images/mysql.png';
 
 function Mysql() {
@@ -15,7 +14,7 @@ function Mysql() {
   }
   return (
     <>
-         <Navbar />
+
       <div className="mt-2" style={mystyle} id="changeComponent">
         <center>
           <h1 className="mt-3" style={style2}>

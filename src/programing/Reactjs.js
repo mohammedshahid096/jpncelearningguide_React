@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from './Navbar';
 import bgimg from '../images/react.png';
 
 function Reactjs() {
@@ -15,7 +14,7 @@ function Reactjs() {
   }
   return (
     <>
-         <Navbar />
+
       <div className="mt-2" style={mystyle} id="changeComponent">
         <center>
           <h1 className="mt-3" style={style2}>
