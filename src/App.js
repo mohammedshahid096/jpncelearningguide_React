@@ -46,7 +46,7 @@ function App() {
 
         <Route path='/interview' element={<Innavbar/>} />
 
-        <Route path='/*' element = {<center><h1>this page is on working soon it will be uploaded</h1></center>} />
+        <Route path='/*' element = {<center><h1>this page is on working soon it will be upload</h1></center>} />
         </Routes>
         </BrowserRouter>
 
