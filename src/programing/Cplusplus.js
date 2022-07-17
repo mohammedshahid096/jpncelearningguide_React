@@ -1,26 +1,23 @@
-import React from "react";
-import Navbar from "./Navbar";
-import bgimg from "../images/clang.png";
+import React from 'react';
+import bgimg from '../images/C++.png';
 
-let mystyle = {
-  backgroundImage: `url(${bgimg})`,
-  backgroundRepeat: "no-repeat",
-  backgroundPosition: "50% 90%",
-  backgroundSize: "25rem",
-  backgroundAttachment: "fixed",
-};
-
-const style2 = {
-  color: "#00599c",
-};
-function Clanguage() {
+function Cplusplus() {
+  const mystyle ={
+    backgroundImage: `url(${bgimg})`,
+    backgroundRepeat: "no-repeat",
+    backgroundPosition:"50% 90%",
+    backgroundSize: "25rem",
+    backgroundAttachment:"fixed"
+  };
+  const style2 ={
+    color: "#1e8ee4d3"
+  }
   return (
     <>
-      <Navbar />
       <div className="mt-2" style={mystyle} id="changeComponent">
         <center>
           <h1 className="mt-3" style={style2}>
-            C Language
+            C++
           </h1>
         </center>
 
@@ -33,6 +30,7 @@ function Clanguage() {
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
+              
               <h4>1.code blocks download link :</h4>
               <a
                 href="https://www.codeblocks.org/downloads/"
@@ -68,9 +66,9 @@ function Clanguage() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>1. Complete Neso Academy Cpp Language Video Series :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -82,30 +80,17 @@ function Clanguage() {
               <center>
                 <h3>or</h3>
               </center>
-              <h4>2. Complete Jenny's Lectures C Language Video Series : </h4>
+              <h4>2. Complete cpp basics  : </h4>
               <a
-                href="https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S"
+                href="https://youtu.be/vLnPwxZdW4Y"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
+                  Click here to watch the video
                 </button>
               </a>
 
-              <center>
-                <h3>or</h3>
-              </center>
-              <h4>3. Basic C Language concepts from Telusko : </h4>
-              <a
-                href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
-                </button>
-              </a>
             </div>
           </div>
 
@@ -114,13 +99,13 @@ function Clanguage() {
             <div className="row p-2" id="websiteblock">
               <center>
                 <h2>
-                  Websites:<i className="fas fa-laptop-code"></i>
+                  Websites<i className="fas fa-laptop-code"></i>  :
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
+              <h4>1. Learn Cpp Programming :</h4>
               <a
-                href="https://www.programiz.com/c-programming"
+                href="https://www.programiz.com/cpp-programming"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -140,29 +125,20 @@ function Clanguage() {
                 </button>
               </a>
 
-              <h4>
-                3. CISCO Netcat Academy :
-                <small style={{ fontWeight: "400" }}>
-                  Request to
-                  <mark className="bg-warning">HOD of C.S.E Dept</mark> to make
-                  enroll in this course
-                </small>
-              </h4>
-              <hr />
               <center>
                 <h2>
-                  Compiler:<i className="fas fa-file-code"></i>
+                Compiler <i className="fas fa-file-code"></i>  :
                 </h2>
               </center>
               <hr />
-              <h4> &nbsp; C online Compiler</h4>
+              <h4> &nbsp; Cpp online Compiler</h4>
               <a
                 href="https://www.programiz.com/c-programming/online-compiler/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to open online C compiler
+                  Click here to open online Cpp compiler
                 </button>
               </a>
             </div>
@@ -174,13 +150,13 @@ function Clanguage() {
             <div className="row" id="practiceQuestionBlock">
               <center>
                 <h2>
-                  Practice Questions:<i className="fas fa-question-circle"></i>
+                Practice Questions<i className="fas fa-question-circle"></i>
                 </h2>
               </center>
               <hr />
-              <h4>1. 200+ C Questions to practice: </h4>
+              <h4>1. 85+ Cpp Questions to practice: </h4>
               <a
-                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
+                href="https://www.w3resource.com/cpp-exercises/basic/index.php"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -201,20 +177,21 @@ function Clanguage() {
               </center>
               <hr />
               <center>
-                <h2><i className="fas fa-times-circle"></i>
+              <h2><i className="fas fa-times-circle"></i>
                 <br />
                 <small>Not yet posted</small>    
                 </h2>
               </center>
-             </div>
+            </div>
           </div>
 
 
 
         </div>
       </div>
+
     </>
-  );
+  )
 }
 
-export default Clanguage;
+export default Cplusplus

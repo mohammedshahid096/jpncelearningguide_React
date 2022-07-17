@@ -1,28 +1,24 @@
 import React from "react";
-import Navbar from "./Navbar";
-import bgimg from "../images/phpelephant.png";
+import bgimg from "../images/clang.png";
 
 let mystyle = {
   backgroundImage: `url(${bgimg})`,
   backgroundRepeat: "no-repeat",
-  backgroundPosition: "50% 100%",
-  backgroundSize: "30rem",
+  backgroundPosition: "50% 90%",
+  backgroundSize: "25rem",
   backgroundAttachment: "fixed",
 };
 
 const style2 = {
-  color: "#505e9b",
-  textShadow: '3px 4px 2px black',
-  fontSize:"6rem"
+  color: "#00599c",
 };
-function Php() {
+function Clanguage() {
   return (
     <>
-      <Navbar />
       <div className="mt-2" style={mystyle} id="changeComponent">
         <center>
           <h1 className="mt-3" style={style2}>
-            Php
+            C Language
           </h1>
         </center>
 
@@ -32,17 +28,26 @@ function Php() {
           <div className="col-md-6 offset-md-3">
             <div className="row" id="editorBlock">
               <center>
-                <h2>Edi <i class="fas fa-terminal"></i>tor</h2>
+                <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>1.code blocks download link :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://www.codeblocks.org/downloads/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to visit the download page
+                </button>
+              </a>
+              <a
+                href="https://youtu.be/TmT8zXy7zU8"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to visit the youtube page to setup environment variables
                 </button>
               </a>
             </div>
@@ -107,7 +112,7 @@ function Php() {
             <div className="row p-2" id="websiteblock">
               <center>
                 <h2>
-                  Web<i className="fas fa-laptop-code"></i>sites:
+                  Websites:<i className="fas fa-laptop-code"></i>
                 </h2>
               </center>
               <hr />
@@ -144,7 +149,7 @@ function Php() {
               <hr />
               <center>
                 <h2>
-                  Comp<i className="fas fa-file-code"></i>iler:
+                  Compiler:<i className="fas fa-file-code"></i>
                 </h2>
               </center>
               <hr />
@@ -167,7 +172,7 @@ function Php() {
             <div className="row" id="practiceQuestionBlock">
               <center>
                 <h2>
-                  Questions<i className="fas fa-question-circle"></i>practice:
+                  Practice Questions:<i className="fas fa-question-circle"></i>
                 </h2>
               </center>
               <hr />
@@ -193,28 +198,13 @@ function Php() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
-              <a
-                href="https://www.programiz.com/c-programming"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-
-              <h4>2. W3 Schools :</h4>
-              <a
-                href="https://www.w3schools.com/c/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-            </div>
+              <center>
+                <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
+             </div>
           </div>
 
 
@@ -225,4 +215,4 @@ function Php() {
   );
 }
 
-export default Php;
+export default Clanguage;

@@ -1,25 +1,26 @@
 import React from 'react';
-import Navbar from './Navbar';
-import bgimg from '../images/C++.png';
+import bgimg from "../images/htmlcss.png";
 
-function Cplusplus() {
-  const mystyle ={
-    backgroundImage: `url(${bgimg})`,
-    backgroundRepeat: "no-repeat",
-    backgroundPosition:"50% 90%",
-    backgroundSize: "25rem",
-    backgroundAttachment:"fixed"
-  };
-  const style2 ={
-    color: "#1e8ee4d3"
-  }
+let mystyle = {
+  backgroundImage: `url(${bgimg})`,
+  backgroundRepeat: "no-repeat",
+  backgroundPosition: "50% 85%",
+  backgroundSize: "35rem",
+  backgroundAttachment: "fixed",
+};
+
+const style2 = {
+  color: "#2254c9",
+  textShadow: '3px 4px 3px #e44d26'
+};
+function Htmlcss() {
   return (
-    <>
-         <Navbar />
+    <div>
+        <>
       <div className="mt-2" style={mystyle} id="changeComponent">
         <center>
           <h1 className="mt-3" style={style2}>
-            C++
+            Html &amp; Css
           </h1>
         </center>
 
@@ -32,24 +33,23 @@ function Cplusplus() {
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              
-              <h4>1.code blocks download link :</h4>
+              <h4>VSCode download and setup  :</h4>
               <a
-                href="https://www.codeblocks.org/downloads/"
+                href="https://code.visualstudio.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to visit the download page
+                  Click here to download the vs code
                 </button>
               </a>
               <a
-                href="https://youtu.be/TmT8zXy7zU8"
+                href="https://youtu.be/fWzp5lZ5CEA"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to visit the youtube page to setup environment variables
+                  Click here to watch the video (English)
                 </button>
               </a>
             </div>
@@ -68,31 +68,58 @@ function Cplusplus() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy Cpp Language Video Series :</h4>
+              <h4>1. Complete playlist from Code with:</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS"
+                href="https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to watch the video (HINDI)
                 </button>
               </a>
 
               <center>
                 <h3>or</h3>
               </center>
-              <h4>2. Complete cpp basics  : </h4>
+              <h4>2. Complete Lecture html and css Video  : </h4>
               <a
-                href="https://youtu.be/vLnPwxZdW4Y"
+                href="https://youtu.be/G3e-cpL7ofc"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the video
+                  Click here to watch the video (6 hours)
                 </button>
               </a>
 
+              <center>
+                <h3>or</h3>
+              </center>
+              <h4>3. HTML playlist from Yahoo Baba : </h4>
+              <a
+                href="https://youtube.com/playlist?list=PL0b6OzIxLPbxStBQ21C2toa5uQMqHEoRT"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to watch the playlist of only HTML(hindi)
+                </button>
+              </a>
+
+              <center>
+                <h3>or</h3>
+              </center>
+              <h4>4. CSS playlist from Yahoo Baba : </h4>
+              <a
+                href="https://youtube.com/playlist?list=PL0b6OzIxLPbzDsI5YXUa01QzxOWyqmrWw"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to watch the playlist of only CSS(hindi)
+                </button>
+              </a>
             </div>
           </div>
 
@@ -101,13 +128,13 @@ function Cplusplus() {
             <div className="row p-2" id="websiteblock">
               <center>
                 <h2>
-                  Websites<i className="fas fa-laptop-code"></i>  :
+                  Web<i className="fas fa-laptop-code"></i>sites:
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn Cpp Programming :</h4>
+              <h4>1. HTML from w3schools :</h4>
               <a
-                href="https://www.programiz.com/cpp-programming"
+                href="https://www.w3schools.com/html/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -116,9 +143,9 @@ function Cplusplus() {
                 </button>
               </a>
 
-              <h4>2. W3 Schools :</h4>
+              <h4>2.CSS from W3 Schools :</h4>
               <a
-                href="https://www.w3schools.com/c/index.php"
+                href="https://www.w3schools.com/css/css_intro.asp"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -126,21 +153,32 @@ function Cplusplus() {
                   Click here to open Website
                 </button>
               </a>
-
+              
+              <hr />
               <center>
                 <h2>
-                Compiler <i className="fas fa-file-code"></i>  :
+                  Comp<i className="fas fa-file-code"></i>iler:
                 </h2>
               </center>
               <hr />
-              <h4> &nbsp; Cpp online Compiler</h4>
+              <h4>1.Pen Code</h4>
               <a
-                href="https://www.programiz.com/c-programming/online-compiler/"
+                href="https://codepen.io/pen/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to open online Cpp compiler
+                  Click here to open Pen Code
+                </button>
+              </a>
+              <h4>2.JDoole for html/css/js</h4>
+              <a
+                href="https://www.jdoodle.com/html-css-javascript-online-editor/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to open jDoodle
                 </button>
               </a>
             </div>
@@ -152,20 +190,16 @@ function Cplusplus() {
             <div className="row" id="practiceQuestionBlock">
               <center>
                 <h2>
-                Practice Questions<i className="fas fa-question-circle"></i>
+                  Questions<i className="fas fa-question-circle"></i>practice:
                 </h2>
               </center>
               <hr />
-              <h4>1. 85+ Cpp Questions to practice: </h4>
-              <a
-                href="https://www.w3resource.com/cpp-exercises/basic/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to start practining
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 
@@ -192,8 +226,9 @@ function Cplusplus() {
         </div>
       </div>
 
-    </>
+        </>
+    </div>
   )
 }
 
-export default Cplusplus
+export default Htmlcss

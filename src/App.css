@@ -45,6 +45,7 @@ body{
     color: rgba(245, 245, 245, 0.838);
     padding-left: 18px;
 }
+
 /* ----------------------------------------- */
 #editorBlock{
     border: 2px solid gray;
@@ -74,7 +75,31 @@ body{
     box-shadow:2px 3px 12px black;    
 }
 
+/*todo -------------------- HOME ---------------------------------------- */
+#homeMainDiv p{
+    font-size: large;
+    text-align:justify;
+}
+#homeMainDiv ol{
+    font-size: x-large;
+    text-transform: capitalize;
+}
 
+/*todo -------------------- interview navbar ---------------------------------------- */
+#interviewnavbg{
+    background-color: rgba(144, 186, 136, 0.696);
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+#interviewnavbg li{
+    /* border-right: 1.5px solid rgb(82, 126, 175); */
+    border-right: 1.5px solid black;
+    padding: 0 25px;
+}
+#interviewnavbg a{
+    color: black;
+    font-size: x-large;
+}
 
 
 
@@ -100,6 +125,9 @@ body{
         border-style:double;
         border-radius: 20px;
     }
-  
 
+    /* ---------------------------- */
+    #interviewnavbg li{
+        border-right: none;
+    }
 }
