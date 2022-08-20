@@ -45,6 +45,7 @@ function Htmlcss() {
                   Click here to download the vs code
                 </button>
               </a>
+<<<<<<< Updated upstream
               <a
                 href="https://youtu.be/fWzp5lZ5CEA"
                 target="_blank"
@@ -54,6 +55,8 @@ function Htmlcss() {
                   Click here to watch the video (English)
                 </button>
               </a>
+=======
+>>>>>>> Stashed changes
             </div>
           </div>
 
@@ -94,6 +97,7 @@ function Htmlcss() {
                   Click here to watch the video (6 hours)
                 </button>
               </a>
+<<<<<<< Updated upstream
 
               <center>
                 <h3>or</h3>
@@ -122,6 +126,8 @@ function Htmlcss() {
                   Click here to watch the playlist of only CSS(hindi)
                 </button>
               </a>
+=======
+>>>>>>> Stashed changes
             </div>
           </div>
 
@@ -134,7 +140,11 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
+<<<<<<< Updated upstream
               <h4>1. HTML from w3schools :</h4>
+=======
+              <h4>1. Learn html and css :</h4>
+>>>>>>> Stashed changes
               <a
                 href="https://www.w3schools.com/html/"
                 target="_blank"
@@ -147,22 +157,31 @@ function Htmlcss() {
 
               <h4>2.CSS from W3 Schools :</h4>
               <a
+<<<<<<< Updated upstream
                 href="https://www.w3schools.com/css/css_intro.asp"
+=======
+                href="https://www.w3schools.com/html/default.asp"
+>>>>>>> Stashed changes
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
+                  Click here to open Website for html
+                </button>
+              </a>
+              <a
+                href="https://www.w3schools.com/css/default.asp"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to open Website for css
                 </button>
               </a>
               
               <hr />
-              <center>
-                <h2>
-                  Comp<i className="fas fa-file-code"></i>iler:
-                </h2>
-              </center>
               <hr />
+<<<<<<< Updated upstream
               <h4>1.Pen Code</h4>
               <a
                 href="https://codepen.io/pen/"
@@ -183,6 +202,9 @@ function Htmlcss() {
                   Click here to open jDoodle
                 </button>
               </a>
+=======
+
+>>>>>>> Stashed changes
             </div>
           </div>
 
@@ -196,12 +218,25 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
+<<<<<<< Updated upstream
               <center>
               <h2><i className="fas fa-times-circle"></i>
                 <br />
                 <small>Not yet posted</small>    
                 </h2>
               </center>
+=======
+              <h4>1. 200+ Html Css Questions to practice: </h4>
+              <a
+                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to start practining
+                </button>
+              </a>
+>>>>>>> Stashed changes
             </div>
           </div>
 

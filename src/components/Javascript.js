@@ -131,7 +131,29 @@ function Javascript() {
                 </button>
               </a>
 
+<<<<<<< Updated upstream
               
+=======
+              <h4>2. W3 Schools :</h4>
+              <a
+                href="https://www.w3schools.com/js/default.asp"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to open Website
+                </button>
+              </a>
+
+              <h4>
+                3. CISCO Netcat Academy :
+                <small style={{ fontWeight: "400" }}>
+                  Request to
+                  <mark className="bg-warning">HOD of C.S.E Dept</mark> to make
+                  enroll in this course
+                </small>
+              </h4>
+>>>>>>> Stashed changes
               <hr />
               <center>
                 <h2>
