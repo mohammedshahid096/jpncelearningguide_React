@@ -9,6 +9,7 @@ function Navbar2() {
   // document.getElementById("navabar").style.marginLeft = "250px";
   // document.getElementById("changeComponent").style.marginLeft = "250px";
   document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+  document.getElementById("searchyoutubebutton").style.visibility="hidden";
   }
 
   function closeNav() {
@@ -16,6 +17,7 @@ function Navbar2() {
     // document.getElementById("navabar").style.marginLeft= "0";
     // document.getElementById("changeComponent").style.marginLeft= "0";
     document.body.style.backgroundColor = "white";
+    document.getElementById("searchyoutubebutton").style.visibility="visible";
   }
   const tempclick =()=>{
     document.body.style.backgroundColor = "white";
@@ -28,10 +30,11 @@ function Navbar2() {
       <div id="mySidenav" className="sidenav">
       <i className="fas fa-times closebtn" id='closemenuicon' onClick={closeNav}></i>
   
-  <NavLink to="/programming" onClick={tempclick} >Programming</NavLink>
-  <NavLink to="/interview" onClick={tempclick} >Interview</NavLink>
-  <NavLink to="/*" onClick={tempclick}><i className="fas fa-book-open"></i> Academics</NavLink>
+  <NavLink to="/programming" onClick={tempclick} ><i className="fas fa-laptop-code"></i>Programming</NavLink>
+  <NavLink to="/interview" onClick={tempclick} ><i className="fab fa-stack-overflow"></i> Interview</NavLink>
+  <NavLink to="academic" onClick={tempclick}><i className="fas fa-book-open"></i> Academics</NavLink>
   <NavLink to="/*" onClick={tempclick} ><i className="fas fa-laptop"></i> Specifications</NavLink>
+  <NavLink to="algorithms" onClick={tempclick} ><i className="fas fa-brain"></i> Algorithms</NavLink>
 
 </div>
 <div>

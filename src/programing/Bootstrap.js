@@ -1,4 +1,5 @@
 import React from 'react';
+// import bgimg from '../images/bootstrap.png';
 import bgimg from '../images/bootstrap.png';
 
 function Bootstrap() {

@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter, Navigate, Route,Routes} from "react-router-dom";
-import Heading from './programing/Heading';
+import Heading from './components/Heading';
 import Cplusplus from './programing/Cplusplus';
 import Home from './programing/Home';
 import Clanguage from './programing/Clanguage';
@@ -15,6 +15,8 @@ import Reactjs from './programing/Reactjs';
 import Programming from './components/Programming';
 import Navbar2 from './components/Navbar2';
 import Innavbar from './interview/Innavbar';
+import Searchsubject from './Academics/Searchsubject';
+import Allalgorithms from './Algorithms/Allalgorithms';
 
 
 
@@ -45,9 +47,13 @@ function App() {
         </Route>
 
         <Route path='/interview' element={<Innavbar/>} />
+        <Route path="academic" element ={<Searchsubject/>}/>
+        <Route path="algorithms" element ={<Allalgorithms/>}/>
 
         <Route path='/*' element = {<center><h1>this page is on working soon it will be upload</h1></center>} />
         </Routes>
+        
+
         </BrowserRouter>
 
       </div>

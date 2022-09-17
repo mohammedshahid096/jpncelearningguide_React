@@ -47,14 +47,14 @@ function Home() {
             hard work. Web developers do well when they can show a portfolio of
             their work and have a deep understanding of coding.
           </p>
-          <p>
+          {/* <p> */}
             Web Development are of 3 types:
             <ul>
               <li>Frontend Development</li>
               <li>Backend Development</li>
               <li>Full-stack Development</li>
             </ul>
-          </p>
+          {/* </p> */}
           <div>
             <h3>Frontend Development:</h3>
             <p>
