@@ -47,8 +47,8 @@ function App() {
         </Route>
 
         <Route path='/interview' element={<Innavbar/>} />
-        <Route path="academic" element ={<Searchsubject/>}/>
-        <Route path="algorithms" element ={<Allalgorithms/>}/>
+        <Route path="/academic" element ={<Searchsubject/>}/>
+        <Route path="/algorithms" element ={<Allalgorithms/>}/>
 
         <Route path='/*' element = {<center><h1>this page is on working soon it will be upload</h1></center>} />
         </Routes>
