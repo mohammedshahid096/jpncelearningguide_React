@@ -129,31 +129,7 @@ function Mysql() {
                 </button>
               </a>
 
-              <h4>
-                3. CISCO Netcat Academy :
-                <small style={{ fontWeight: "400" }}>
-                  Request to
-                  <mark className="bg-warning">HOD of C.S.E Dept</mark> to make
-                  enroll in this course
-                </small>
-              </h4>
-              <hr />
-              <center>
-                <h2>
-                  Comp<i className="fas fa-file-code"></i>iler:
-                </h2>
-              </center>
-              <hr />
-              <h4> &nbsp; C online Compiler</h4>
-              <a
-                href="https://www.programiz.com/c-programming/online-compiler/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open online C compiler
-                </button>
-              </a>
+       
             </div>
           </div>
 {/* -----------------question practice block--------------------------------------------- */}
@@ -167,16 +143,12 @@ function Mysql() {
                 </h2>
               </center>
               <hr />
-              <h4>1. 200+ C Questions to practice: </h4>
-              <a
-                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to start practining
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 
@@ -189,27 +161,12 @@ function Mysql() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
-              <a
-                href="https://www.programiz.com/c-programming"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-
-              <h4>2. W3 Schools :</h4>
-              <a
-                href="https://www.w3schools.com/c/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 

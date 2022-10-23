@@ -1,0 +1,18 @@
+[
+    {
+        "CHEMISTRY": [
+            "chemistry1",
+            "chemistry2",
+            "chemistry3",
+            "chemistry4"
+        ],
+        "ENGINEERING GRAPHICS": [
+            "engineering1",
+            "engineering2"
+        ],
+        "PROGRAMMING FOR PROBLEM SOLVING": [
+            "engineering1",
+            "engineering2"
+        ]
+    }
+]

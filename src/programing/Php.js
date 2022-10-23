@@ -29,18 +29,36 @@ function Php() {
           {/* ------------------Editors Block---------------------------------- */}
           <div className="col-md-6 offset-md-3">
             <div className="row" id="editorBlock">
-              <center>
+            <center>
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>XAMPP Server to download and setup  :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://www.apachefriends.org/download.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to download the  XAMPP server
+                </button>
+              </a>
+              <a
+                href="https://youtu.be/PeAFYfVGL68"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to watch the yahoobaba video(Hindi)
+                </button>
+              </a>
+              <a
+                href="https://youtu.be/at19OmH2Bg4"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to watch the video of codeWithHarry (hindi)
                 </button>
               </a>
             </div>
@@ -59,23 +77,23 @@ function Php() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>1. php playlist from Yahoo Baba :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to watch the playlist (Hindi)
                 </button>
               </a>
 
               <center>
                 <h3>or</h3>
               </center>
-              <h4>2. Complete Jenny's Lectures C Language Video Series : </h4>
+              <h4>2. php playlist from codeWithHarry : </h4>
               <a
-                href="https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S"
+                href="https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -87,9 +105,9 @@ function Php() {
               <center>
                 <h3>or</h3>
               </center>
-              <h4>3. Basic C Language concepts from Telusko : </h4>
+              <h4>3. Learn PHP The Right Way from program with Gio <b>(new)</b>  </h4>
               <a
-                href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"
+                href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -109,9 +127,9 @@ function Php() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
+              <h4>1. W3 Schools :</h4>
               <a
-                href="https://www.programiz.com/c-programming"
+                href="https://www.w3schools.com/php/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -120,9 +138,9 @@ function Php() {
                 </button>
               </a>
 
-              <h4>2. W3 Schools :</h4>
+              <h4>2. Guru99</h4>
               <a
-                href="https://www.w3schools.com/c/index.php"
+                href="https://www.guru99.com/php-tutorials.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -131,29 +149,23 @@ function Php() {
                 </button>
               </a>
 
-              <h4>
-                3. CISCO Netcat Academy :
-                <small style={{ fontWeight: "400" }}>
-                  Request to
-                  <mark className="bg-warning">HOD of C.S.E Dept</mark> to make
-                  enroll in this course
-                </small>
-              </h4>
+            
               <hr />
+              {/*------------------ compiler block -------------- */}
               <center>
                 <h2>
                   Comp<i className="fas fa-file-code"></i>iler:
                 </h2>
               </center>
               <hr />
-              <h4> &nbsp; C online Compiler</h4>
+              <h4> &nbsp; php jdoodle Compiler</h4>
               <a
-                href="https://www.programiz.com/c-programming/online-compiler/"
+                href="https://www.jdoodle.com/php-online-editor/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to open online C compiler
+                  Click here to open online  compiler
                 </button>
               </a>
             </div>
@@ -161,6 +173,7 @@ function Php() {
 
           <div className="1-100"></div>
 
+            {/* ------------practice questions block --------------- */}
           <div className="col-md-6 mt-3">
             <div className="row" id="practiceQuestionBlock">
               <center>
@@ -169,49 +182,30 @@ function Php() {
                 </h2>
               </center>
               <hr />
-              <h4>1. 200+ C Questions to practice: </h4>
-              <a
-                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to start practining
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 
           {/* -----------------interview block------------------------------- */}
           <div className="col-md-5  offset-md-1 ">
             <div className="row p-2 mt-3" id="websiteblock">
-              <center>
+            <center>
                 <h2>
                   interview<i className="fas fa-star"></i>Questions:
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
-              <a
-                href="https://www.programiz.com/c-programming"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-
-              <h4>2. W3 Schools :</h4>
-              <a
-                href="https://www.w3schools.com/c/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 

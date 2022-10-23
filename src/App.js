@@ -17,6 +17,7 @@ import Navbar2 from './components/Navbar2';
 import Innavbar from './interview/Innavbar';
 import Searchsubject from './Academics/Searchsubject';
 import Allalgorithms from './Algorithms/Allalgorithms';
+import PdfSearch from './Academics/PdfSearch';
 
 
 
@@ -47,8 +48,14 @@ function App() {
         </Route>
 
         <Route path='/interview' element={<Innavbar/>} />
+        
+        {/* ------------------------------------------------- */}
         <Route path="/academic" element ={<Searchsubject/>}/>
+          <Route path='/academic/pdfsearch' element={<PdfSearch/>}/>
+          {/* ------------------------------------------------------ */}
+
         <Route path="/algorithms" element ={<Allalgorithms/>}/>
+
 
         <Route path='/*' element = {<center><h1>this page is on working soon it will be upload</h1></center>} />
         </Routes>

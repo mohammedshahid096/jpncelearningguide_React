@@ -142,7 +142,7 @@ body{
     top: 3px;
     left: -5px;
 }
-#searchbar h1{
+#searchbar h1,#pdfsearch h1{
     font-weight: 900;
     color:black;
 }
@@ -191,6 +191,18 @@ body{
     padding:10px;
     box-sizing: border-box;
 }
+#pdfsearch i{
+    font-size:5rem;
+    color: red;
+}
+#pdfsearch .bg-gray{
+    background-color: rgb(210, 210, 206);
+    border-radius: 10px;
+    color: rgba(0, 0, 0, 0.747);
+    margin-top: 15px;
+    margin-left: 25px;
+    cursor:pointer;
+}
 /* ---------------------------------------------------------------- */
                 /* Algorithms */
 /* ---------------------------------------------------------------- */
@@ -219,6 +231,16 @@ body{
     font-size: 28px;
     color: black;
 }
+.allalgorithms .imgdiv .copybutton{
+    position: absolute;
+    left: 2.5rem;
+    top: 10px;
+    font-size: xx-large;
+    display: inline-block;
+}
+.allalgorithms .imgdiv .copybutton span{
+    top: 14px;
+}
 .allalgorithms .imgdiv i{
     font-size: 45px;
     position: absolute;
@@ -226,6 +248,7 @@ body{
     top: -33px;
     cursor:pointer;
 }
+
 .allalgorithms .imgdiv{
     display: none;
     position: relative;
@@ -273,6 +296,14 @@ body{
     /* ---------------------------- */
     .allalgorithms .algorithmsbutton{
         text-align: left;
+    }
+    .allalgorithms .imgdiv .copybutton{
+        top: 5px;
+        font-size:large;
+    }
+    .allalgorithms .imgdiv .copybutton span{
+        top: 9px;
+        font-size: medium;
     }
 
 }

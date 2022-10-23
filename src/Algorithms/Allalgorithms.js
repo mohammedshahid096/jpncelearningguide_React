@@ -32,6 +32,7 @@ function Allalgorithms() {
         </div>
         <div className="w-100 mt-2"></div>
         <div className="col-md-6 offset-md-3 imgdiv" id="bubblesort2">
+          <i className="far fa-copy copybutton" id="bubblecopy"> <span>copy</span></i>
           <i
             className="fas fa-sort-up"
             onClick={() => slideup("#bubblesort2")}

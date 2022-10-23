@@ -1,140 +1,137 @@
 [
     {
         "SUBJECT_CODE": "151AA",
-        "SUBJECT_NAME": "MATHEMATICS - I",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "MATHEMATICS - I"
+        
     },
     {
         "SUBJECT_CODE": "151AF",
-        "SUBJECT_NAME": "CHEMISTRY",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "CHEMISTRY"
+        
     },
     {
         "SUBJECT_CODE": "151AG",
-        "SUBJECT_NAME": "BASIC ELECTRICAL ENGINEERING",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "BASIC ELECTRICAL ENGINEERING"
+        
     },
     {
         "SUBJECT_CODE": "152AA",
-        "SUBJECT_NAME": "MATHEMATICS - II",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "MATHEMATICS - II"
+        
     },
     {
         "SUBJECT_CODE": "15205",
-        "SUBJECT_NAME": "APPLIED PHYSICS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "APPLIED PHYSICS"
+        
     },
     {
         "SUBJECT_CODE": "15206",
-        "SUBJECT_NAME": "PROGRAMMING FOR PROBLEM SOLVING",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "PROGRAMMING FOR PROBLEM SOLVING"
+        
     },
     {
         "SUBJECT_CODE": "152AG",
-        "SUBJECT_NAME": "ENGINEERING GRAPHICS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "ENGINEERING GRAPHICS"
+        
     },
     {
         "SUBJECT_CODE": "153AB",
-        "SUBJECT_NAME": "ANALOG AND DIGITAL ELECTRONICS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "ANALOG AND DIGITAL ELECTRONICS"
+        
     },
     {
         "SUBJECT_CODE": "153AG",
-        "SUBJECT_NAME": "COMPUTER ORGANIZATION AND ARCHITECTURE",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "COMPUTER ORGANIZATION AND ARCHITECTURE"
+        
     },
     {
         "SUBJECT_CODE": "153AJ",
-        "SUBJECT_NAME": "COMPUTER ORIENTED STATISTICAL METHODS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "COMPUTER ORIENTED STATISTICAL METHODS"
+        
     },
     {
         "SUBJECT_CODE": "153AK",
-        "SUBJECT_NAME": "DATA STRUCTURES",
-        "YOUTUBE":"www.google.com"
+        "SUBJECT_NAME": "DATA STRUCTURES"
     },
     {
         "SUBJECT_CODE": "153BK",
-        "SUBJECT_NAME": "OBJECT ORIENTED PROGRAMMING USING C++",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "OBJECT ORIENTED PROGRAMMING USING C++"
+        
     },
     {
         "SUBJECT_CODE": "154AH",
-        "SUBJECT_NAME": "BUSINESS ECONOMICS & FINANCIAL ANALYSIS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "BUSINESS ECONOMICS & FINANCIAL ANALYSIS"
+        
     },
     {
         "SUBJECT_CODE": "154AM",
-        "SUBJECT_NAME": "DATABASE MANAGEMENT SYSTEMS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "DATABASE MANAGEMENT SYSTEMS"
+        
     },
     {
         "SUBJECT_CODE": "154AQ",
-        "SUBJECT_NAME": "DISCRETE MATHEMATICS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "DISCRETE MATHEMATICS"
+        
     },
     {
         "SUBJECT_CODE": "154BE",
-        "SUBJECT_NAME": "JAVA PROGRAMMING",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "JAVA PROGRAMMING"
+        
     },
     {
         "SUBJECT_CODE": "154BR",
-        "SUBJECT_NAME": "OPERATING SYSTEMS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "OPERATING SYSTEMS"
+        
     },
     {
         "SUBJECT_CODE": "155AN",
-        "SUBJECT_NAME": "COMPUTER NETWORKS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "COMPUTER NETWORKS"
+        
     },
     {
         "SUBJECT_CODE": "155BK",
-        "SUBJECT_NAME": "FORMAL LANGUAGES & AUTOMATA THEORY",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "FORMAL LANGUAGES & AUTOMATA THEORY"
+        
     },
     {
         "SUBJECT_CODE": "155BV",
-        "SUBJECT_NAME": "INFORMATIONAL RETRIEVAL SYSTEMS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "INFORMATIONAL RETRIEVAL SYSTEMS"
+        
     },
     {
         "SUBJECT_CODE": "155DB",
-        "SUBJECT_NAME": "SOFTWARE ENGINEERING",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "SOFTWARE ENGINEERING"
+        
     },
     {
         "SUBJECT_CODE": "155DN",
-        "SUBJECT_NAME": "WEB TECHNOLOGIES",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "WEB TECHNOLOGIES"
+        
     },
     {
         "SUBJECT_CODE": "156AH",
-        "SUBJECT_NAME": "COMPILER DESIGN",
-        "YOUTUBE":"https://www.programiz.com/cpp-programming",
-        "YOUTUBE2":"www.google.com"
-
+        "SUBJECT_NAME": "COMPILER DESIGN"
+        
     },
     {
         "SUBJECT_CODE": "156AN",
-        "SUBJECT_NAME": "DESIGN AND ANALYSIS OF ALGORITHMS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "DESIGN AND ANALYSIS OF ALGORITHMS"
+        
     },
     {
         "SUBJECT_CODE": "156BN",
-        "SUBJECT_NAME": "MACHINE LEARNING",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "MACHINE LEARNING"
+        
     },
     {
         "SUBJECT_CODE": "156BW",
-        "SUBJECT_NAME": "MOBILE APPLICATION DEVELOPMENT",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "MOBILE APPLICATION DEVELOPMENT"
+        
     },
     {
         "SUBJECT_CODE": "156DR",
-        "SUBJECT_NAME": "FUNDAMENTALS OF INTERNET OF THINGS",
-        "YOUTUBE":""
+        "SUBJECT_NAME": "FUNDAMENTALS OF INTERNET OF THINGS"
+        
     }
   
  

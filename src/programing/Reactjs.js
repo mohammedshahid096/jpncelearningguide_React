@@ -31,14 +31,24 @@ function Reactjs() {
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4 >1. Complete React js setup and video :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://nodejs.org/en/download/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to open nodejs download link
+                </button>
+              </a>
+              
+              <a
+                href="https://youtu.be/-mJFZp84TIY"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to watch setup link 
                 </button>
               </a>
             </div>
@@ -57,9 +67,29 @@ function Reactjs() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4 className='m-0 '>1. React Js playlist from Code Step By Step :
+              <br /><small style={{fontSize:"medium"}}>based on functional based component (recomanded)</small>
+              </h4>
+              
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to watch the playlist (hindi)
+                </button>
+              </a>
+
+              <center>
+                <h3>or</h3>
+              </center>
+              <h4 >2. React js playlist from Codevolution :
+                <br /> <small style={{fontSize:"medium"}}>based on class based component </small>
+                 </h4>
+              
+              <a
+                href="https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -71,28 +101,15 @@ function Reactjs() {
               <center>
                 <h3>or</h3>
               </center>
-              <h4>2. Complete Jenny's Lectures C Language Video Series : </h4>
+              <h4>3. React js playlist from  Telugu Skillhub : </h4>
+              
               <a
-                href="https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S"
+                href="https://youtube.com/playlist?list=PLWnZ0qt0PImVaDkDbF96dnRGO0_lXVLKf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
-                </button>
-              </a>
-
-              <center>
-                <h3>or</h3>
-              </center>
-              <h4>3. Basic C Language concepts from Telusko : </h4>
-              <a
-                href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
+                  Click here to watch the playlist (Telugu)
                 </button>
               </a>
             </div>
@@ -107,9 +124,9 @@ function Reactjs() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
+              <h4>1. React js official documentation :</h4>
               <a
-                href="https://www.programiz.com/c-programming"
+                href="https://reactjs.org/docs/getting-started.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -120,7 +137,7 @@ function Reactjs() {
 
               <h4>2. W3 Schools :</h4>
               <a
-                href="https://www.w3schools.com/c/index.php"
+                href="https://www.w3schools.com/REACT/DEFAULT.ASP"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -129,37 +146,28 @@ function Reactjs() {
                 </button>
               </a>
 
-              <h4>
-                3. CISCO Netcat Academy :
-                <small style={{ fontWeight: "400" }}>
-                  Request to
-                  <mark className="bg-warning">HOD of C.S.E Dept</mark> to make
-                  enroll in this course
-                </small>
-              </h4>
               <hr />
+              {/* ---------compiler block ------------------ */}
               <center>
                 <h2>
                   Comp<i className="fas fa-file-code"></i>iler:
                 </h2>
               </center>
               <hr />
-              <h4> &nbsp; C online Compiler</h4>
-              <a
-                href="https://www.programiz.com/c-programming/online-compiler/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open online C compiler
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 
           <div className="1-100"></div>
 
           <div className="col-md-6 mt-3">
+
+            {/* ----------practice questions block---------- */}
             <div className="row" id="practiceQuestionBlock">
               <center>
                 <h2>
@@ -167,16 +175,12 @@ function Reactjs() {
                 </h2>
               </center>
               <hr />
-              <h4>1. 200+ C Questions to practice: </h4>
-              <a
-                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to start practining
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 
@@ -189,27 +193,12 @@ function Reactjs() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
-              <a
-                href="https://www.programiz.com/c-programming"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-
-              <h4>2. W3 Schools :</h4>
-              <a
-                href="https://www.w3schools.com/c/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
+              <center>
+              <h2><i className="fas fa-times-circle"></i>
+                <br />
+                <small>Not yet posted</small>    
+                </h2>
+              </center>
             </div>
           </div>
 

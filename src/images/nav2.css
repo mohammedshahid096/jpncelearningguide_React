@@ -35,7 +35,7 @@
   
   #main,#changeComponent {
     transition: margin-left .5s;
-    padding: 16px;
+    /* padding: 16px; */
   }
   #menuopenicon{
     font-size: 40px;
