@@ -1,18 +1,16 @@
 [
     {
-        "CHEMISTRY": [
-            "chemistry1",
-            "chemistry2",
-            "chemistry3",
-            "chemistry4"
-        ],
-        "ENGINEERING GRAPHICS": [
-            "engineering1",
-            "engineering2"
-        ],
+      
         "PROGRAMMING FOR PROBLEM SOLVING": [
-            "engineering1",
-            "engineering2"
+          { "chapter" : "chapter1"},
+          {  "chapter2" : "chapter2"}
+        ],
+        "DESIGN AND ANALYSIS OF ALGORITHMS": [
+           {"chapter-1": "https://drive.google.com/file/d/1fgXYXEV-APQK1E9j_rLSmG-QFNapSH5C/view?usp=share_link"},
+           {"chapter-2": "https://drive.google.com/file/d/1fh0HSqWrHB0BRIXPiQdmast0a2gClahl/view?usp=share_link"},
+           {"chapter-3": "https://drive.google.com/file/d/1fm3v6K9TegwSw4PykWGXLk3xyl_YslRi/view?usp=share_link"},
+           {"chapter-4": "https://drive.google.com/file/d/1fm3v6K9TegwSw4PykWGXLk3xyl_YslRi/view?usp=share_link"},
+           {"chapter-5": "https://drive.google.com/file/d/1fr6fK3Cq9lGn3cw4EL4ExD_AnnqcbaxV/view?usp=share_link"}
         ]
     }
 ]

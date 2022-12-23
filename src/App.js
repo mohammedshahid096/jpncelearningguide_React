@@ -15,7 +15,7 @@ import Reactjs from './programing/Reactjs';
 import Programming from './components/Programming';
 import Navbar2 from './components/Navbar2';
 import Innavbar from './interview/Innavbar';
-import Searchsubject from './Academics/Searchsubject';
+import Searchsubject from './Academics/Searchsubject.js';
 import Allalgorithms from './Algorithms/Allalgorithms';
 import PdfSearch from './Academics/PdfSearch';
 

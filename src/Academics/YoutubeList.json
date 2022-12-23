@@ -13,6 +13,19 @@
         "PROGRAMMING FOR PROBLEM SOLVING": [
             "engineering1",
             "engineering2"
+        ],
+        "DATABASE MANAGEMENT SYSTEMS":[
+            "https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y"
+        ],
+        "COMPUTER NETWORKS":[
+            "https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+            "https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx"
+        ],
+        "COMPILER DESIGN":[
+            "https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"
+        ],
+        "MACHINE LEARNING":[
+            "https://youtube.com/playlist?list=PLmAmHQ-_5ySyQeEryrlomrEvOGNYN3TAL"
         ]
     }
 ]

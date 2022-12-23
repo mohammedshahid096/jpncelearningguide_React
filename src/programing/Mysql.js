@@ -28,17 +28,39 @@ function Mysql() {
           <div className="col-md-6 offset-md-3">
             <div className="row" id="editorBlock">
               <center>
+                {/* mysqlshell work bench */}
                 <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>MySql workbench Download Setup  :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://dev.mysql.com/downloads/installer/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  click here to open mysql workbench link
+                </button>
+              </a>
+
+              <a
+                href="https://youtu.be/2c2fUOgZMmY"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  click here to watch video to for setup
+                </button>
+              </a>
+              {/* xampp server */}
+              <h4>XAMPP Server to download and setup  :</h4>
+              <a
+                href="https://www.apachefriends.org/download.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to download the  XAMPP server
                 </button>
               </a>
             </div>
@@ -57,44 +79,17 @@ function Mysql() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>1. Complete MySql Series from yahoobaba :</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://youtube.com/playlist?list=PL0b6OzIxLPbzf12lu5etX_vjN-eUxgxnr"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to watch the playlist (Hindi)
                 </button>
               </a>
 
-              <center>
-                <h3>or</h3>
-              </center>
-              <h4>2. Complete Jenny's Lectures C Language Video Series : </h4>
-              <a
-                href="https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
-                </button>
-              </a>
-
-              <center>
-                <h3>or</h3>
-              </center>
-              <h4>3. Basic C Language concepts from Telusko : </h4>
-              <a
-                href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
-                </button>
-              </a>
             </div>
           </div>
 
@@ -107,20 +102,10 @@ function Mysql() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
-              <a
-                href="https://www.programiz.com/c-programming"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
 
-              <h4>2. W3 Schools :</h4>
+              <h4>1. W3 Schools :</h4>
               <a
-                href="https://www.w3schools.com/c/index.php"
+                href="https://www.w3schools.com/mysql/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

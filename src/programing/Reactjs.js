@@ -155,10 +155,16 @@ function Reactjs() {
               </center>
               <hr />
               <center>
-              <h2><i className="fas fa-times-circle"></i>
-                <br />
-                <small>Not yet posted</small>    
-                </h2>
+              <h4> &nbsp; CodeSandbox</h4>
+              <a
+                href="https://codesandbox.io/s/react-new"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to open online Terminal
+                </button>
+              </a>
               </center>
             </div>
           </div>

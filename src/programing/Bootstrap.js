@@ -29,17 +29,17 @@ function Bootstrap() {
           <div className="col-md-6 offset-md-3">
             <div className="row" id="editorBlock">
               <center>
-                <h2>Edi <i className="fas fa-terminal"></i>tor</h2>
+                <h2>About<i className="fas fa-info-circle"></i>Bootstrap</h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>Bootstrap 5 is the newest version of Bootstrap frame work with new components, faster stylesheet(css) and more responsiveness.</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                <button type="button" className="btn btn-dark m-2">
+                  Official page Documentation of Bootstrap
                 </button>
               </a>
             </div>
@@ -58,44 +58,31 @@ function Bootstrap() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Complete Neso Academy C Language Video Series :</h4>
+              <h4>1. Complete Bootstrap series from yahoobaba</h4>
               <a
-                href="https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                href="https://youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist (English)
+                  Click here to watch the playlist (Hindi)
                 </button>
               </a>
 
               <center>
                 <h3>or</h3>
               </center>
-              <h4>2. Complete Jenny's Lectures C Language Video Series : </h4>
+              <h4>2. Complete playlist from Code4Education</h4>
               <a
-                href="https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S"
+                href="https://youtube.com/playlist?list=PLdPwRNmUlk0ka9Woqt3Xz4YKr5Fy5wjQT"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
+                  Click here to watch the playlist(hindi)
                 </button>
               </a>
 
-              <center>
-                <h3>or</h3>
-              </center>
-              <h4>3. Basic C Language concepts from Telusko : </h4>
-              <a
-                href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
-                </button>
-              </a>
             </div>
           </div>
 
@@ -108,20 +95,20 @@ function Bootstrap() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
+              <h4>Bootstrap Website</h4>
               <a
-                href="https://www.programiz.com/c-programming"
+                href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
+                 click here open website
                 </button>
               </a>
 
               <h4>2. W3 Schools :</h4>
               <a
-                href="https://www.w3schools.com/c/index.php"
+                href="https://www.w3schools.com/bootstrap5/index.php"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -129,92 +116,11 @@ function Bootstrap() {
                   Click here to open Website
                 </button>
               </a>
-
-              <h4>
-                3. CISCO Netcat Academy :
-                <small style={{ fontWeight: "400" }}>
-                  Request to
-                  <mark className="bg-warning">HOD of C.S.E Dept</mark> to make
-                  enroll in this course
-                </small>
-              </h4>
-              <hr />
-              <center>
-                <h2>
-                  Comp<i className="fas fa-file-code"></i>iler:
-                </h2>
-              </center>
-              <hr />
-              <h4> &nbsp; C online Compiler</h4>
-              <a
-                href="https://www.programiz.com/c-programming/online-compiler/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open online C compiler
-                </button>
-              </a>
+             
             </div>
           </div>
 
           <div className="1-100"></div>
-
-          <div className="col-md-6 mt-3">
-            <div className="row" id="practiceQuestionBlock">
-              <center>
-                <h2>
-                  Questions<i className="fas fa-question-circle"></i>practice:
-                </h2>
-              </center>
-              <hr />
-              <h4>1. 200+ C Questions to practice: </h4>
-              <a
-                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to start practining
-                </button>
-              </a>
-            </div>
-          </div>
-
-          {/* -----------------interview block------------------------------- */}
-          <div className="col-md-5  offset-md-1 ">
-            <div className="row p-2 mt-3" id="websiteblock">
-              <center>
-                <h2>
-                  interview<i className="fas fa-star"></i>Questions:
-                </h2>
-              </center>
-              <hr />
-              <h4>1. Learn C Programming :</h4>
-              <a
-                href="https://www.programiz.com/c-programming"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-
-              <h4>2. W3 Schools :</h4>
-              <a
-                href="https://www.w3schools.com/c/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
-                </button>
-              </a>
-            </div>
-          </div>
-
-
 
         </div>
       </div>

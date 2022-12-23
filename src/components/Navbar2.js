@@ -9,7 +9,7 @@ function Navbar2() {
   // document.getElementById("navabar").style.marginLeft = "250px";
   // document.getElementById("changeComponent").style.marginLeft = "250px";
   document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
-  document.getElementById("searchyoutubebutton").style.visibility="hidden";
+  // document.getElementById("searchyoutubebutton").style.visibility="hidden";
   }
 
   function closeNav() {
@@ -17,7 +17,7 @@ function Navbar2() {
     // document.getElementById("navabar").style.marginLeft= "0";
     // document.getElementById("changeComponent").style.marginLeft= "0";
     document.body.style.backgroundColor = "white";
-    document.getElementById("searchyoutubebutton").style.visibility="visible";
+    // document.getElementById("searchyoutubebutton").style.visibility="visible";
   }
   const tempclick =()=>{
     document.body.style.backgroundColor = "white";
