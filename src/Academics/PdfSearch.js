@@ -47,15 +47,17 @@ function PdfSearch() {
   let data2 = require("./PDFList.json");
   if (searchpdf in data2[0]) {
     data2 = data2[0][searchpdf];
-    showfun = data2.map((item,key) => {
+    showfun = data2.map((item) => {
+      let key = Object.keys(item)[0];
+
       return (
         <div className="col-md-4 bg-gray d-flex  p-3" key={uuidv4()}>
           <i className="far fa-file-pdf"></i>
           <h2 className="m-auto">
-            {Object.keys(item)[0]}
+            {key}
           </h2>
           <a
-            href= {item}
+            href= {item[key]}
             target="_blank"
             rel="noopener noreferrer"
             className="align-self-center px-4"

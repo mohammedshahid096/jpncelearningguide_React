@@ -29,7 +29,7 @@ function App() {
         <BrowserRouter> 
          <Navbar2/>
         <Routes>
-        <Route path="/" element = {<Navigate to="/programming/home" />} />
+        <Route path="/" element ={<Navigate to="/programming/home" />} />
         {/* programming block routes */}
         <Route path="/programming/" element = {<Programming/>} >
           <Route index element={<Navigate to="/programming/home" />}/>
